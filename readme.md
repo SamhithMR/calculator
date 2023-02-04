@@ -5,7 +5,7 @@ A simple calculator built using HTML/CSS & Javascript. This project was created 
 
 
 ## 🔗Demo Link
-https://samhith32.netlify.app/
+https://samhith33.netlify.app/
 <br>
 
 
